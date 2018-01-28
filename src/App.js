@@ -2,14 +2,14 @@ import React, { Component } from 'react';
 import './App.css';
 
 //const colors = [ "#61dafb", "#0496ff", "#027bce" ];
-const colors = [ "#581845", "#900C3F", "#C70039", "#FF5733", "#FFC300" ];
+let colors = [ "#00D8FF", "#581845", "#900C3F", "#C70039", "#FF5733", "#FFC300" ];
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
       rotations: [ 0, 120, 240 ],
-      speeds: [ 1, 2, 3 ],
+      speeds: [ 1, 2, 4 ],
       ovales: [],
       colorIndex: 0,
     };
@@ -19,7 +19,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    setInterval(this.doRotation, 100);
+    setTimeout(() => { colors.splice(0, 1); setInterval(this.doRotation, 100) }, 1500);
   }
 
   doRotation() {
