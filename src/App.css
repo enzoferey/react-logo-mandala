@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+  background-color: #222;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.logo-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Center-logo {
+  position: absolute;
+  left: 0;
+  transform: translate(-50%);
+  width: 53px;
+  top: 3px;
+}
+
+.Ovale-logo {
+  position: absolute;
+  left: 0;
+  transform: translate(-50%, -25%);
+  width: 300px;
+}
+
+/*
+.ovale1 {
+   animation: Ovale-spin infinite 20s linear;
+}
+
+.ovale2 {
+  animation: Ovale-spin-two infinite 40s linear;
+}
+
+.ovale3 {
+  animation: Ovale-spin-three infinite 60s linear;
+}
+
+@keyframes Ovale-spin {
+  from { transform: translate(-50%, -25%) rotate(0deg); }
+  to { transform: translate(-50%, -25%) rotate(360deg); }
+}
+
+@keyframes Ovale-spin-two {
+  from { transform: translate(-50%, -25%) rotate(-300deg); }
+  to { transform: translate(-50%, -25%) rotate(60deg); }
+}
+
+@keyframes Ovale-spin-three {
+  from { transform: translate(-50%, -25%) rotate(-240deg); }
+  to { transform: translate(-50%, -25%) rotate(120deg); }
+}
+*/

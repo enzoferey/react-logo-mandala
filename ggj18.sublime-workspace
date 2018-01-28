@@ -1,0 +1,894 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"img",
+				"imgs"
+			],
+			[
+				"text",
+				"texts"
+			],
+			[
+				"getRa",
+				"getRandomIndex"
+			],
+			[
+				"images",
+				"images"
+			],
+			[
+				"han",
+				"handleClick"
+			],
+			[
+				"hadn",
+				"handleClick"
+			],
+			[
+				"Table",
+				"TableRow"
+			],
+			[
+				"Tabe",
+				"TableHeaders"
+			],
+			[
+				"TableHea",
+				"TableHeaders"
+			],
+			[
+				"anim",
+				"animationFlag"
+			],
+			[
+				"ani",
+				"animationFlag"
+			],
+			[
+				"row",
+				"rowsPerPage"
+			],
+			[
+				"Tab",
+				"TableFooter"
+			],
+			[
+				"handl",
+				"handleChangeInput"
+			],
+			[
+				"hand",
+				"handleChangeInput"
+			],
+			[
+				"Tabl",
+				"TableToolbar"
+			],
+			[
+				"ad",
+				"addElement"
+			],
+			[
+				"add",
+				"addElementLabel"
+			],
+			[
+				"cas",
+				"className"
+			],
+			[
+				"margi",
+				"marginRight"
+			],
+			[
+				"input",
+				"inputsGroup"
+			],
+			[
+				"Input",
+				"InputIcon"
+			],
+			[
+				"car",
+				"cardContent"
+			],
+			[
+				"back",
+				"backButtonIcon"
+			],
+			[
+				"classe",
+				"className"
+			],
+			[
+				"sa",
+				"snackbar"
+			],
+			[
+				"sma",
+				"smallerIcon"
+			],
+			[
+				"smaller",
+				"smallerLabel"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"delet",
+				"deleteFilters"
+			],
+			[
+				"dele",
+				"deleteFilters"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"mar",
+				"marginRight"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"inp",
+				"InputBorder"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"too",
+				"toogleFilters"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"padd",
+				"paddingRight"
+			],
+			[
+				"ty",
+				"typography"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"aut",
+				"authenticated"
+			],
+			[
+				"data",
+				"dataIntervals"
+			],
+			[
+				"fil",
+				"file_names"
+			],
+			[
+				"succ",
+				"successes"
+			],
+			[
+				"suc",
+				"success"
+			],
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"be",
+				"k_best"
+			],
+			[
+				"ev",
+				"evaluations"
+			],
+			[
+				"cove",
+				"coverageRules"
+			],
+			[
+				"co",
+				"coveredIndexes"
+			],
+			[
+				"al",
+				"allIndexes"
+			],
+			[
+				"print",
+				"printRule"
+			],
+			[
+				"per",
+				"percentage"
+			],
+			[
+				"m",
+				"myRule"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"in",
+				"intervals"
+			],
+			[
+				"permutations_clas",
+				"permutations_classes"
+			],
+			[
+				"uni",
+				"unique_labels"
+			],
+			[
+				"sta",
+				"standar"
+			],
+			[
+				"test",
+				"testKFold"
+			],
+			[
+				"tra",
+				"train_index"
+			],
+			[
+				"O",
+				"O"
+			],
+			[
+				"cur",
+				"currX"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"flag",
+				"flagL"
+			],
+			[
+				"fla",
+				"flagR"
+			],
+			[
+				"client",
+				"clientY"
+			],
+			[
+				"body",
+				"bodyData"
+			],
+			[
+				"sam",
+				"sampleJSON"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"post",
+				"postImage"
+			],
+			[
+				"con",
+				"contenidoHeader"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ol",
+				"oldCentroids"
+			],
+			[
+				"label",
+				"labelData"
+			],
+			[
+				"ran",
+				"randomIndex"
+			],
+			[
+				"max",
+				"maxIndex"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"tar",
+				"train_labels"
+			],
+			[
+				"pred",
+				"predEtiq"
+			],
+			[
+				"gr",
+				"grDiag"
+			],
+			[
+				"clasif",
+				"clasifEuclid"
+			],
+			[
+				"siz",
+				"size_group"
+			],
+			[
+				"total",
+				"total_errors"
+			],
+			[
+				"tot",
+				"total_errors"
+			],
+			[
+				"trai",
+				"training_data"
+			],
+			[
+				"group",
+				"group_labels"
+			],
+			[
+				"si",
+				"size_group"
+			],
+			[
+				"sum",
+				"sumDi"
+			],
+			[
+				"mean",
+				"means"
+			],
+			[
+				"vect",
+				"vectorize"
+			],
+			[
+				"cm",
+				"cm"
+			],
+			[
+				"cov",
+				"covsRegularized"
+			],
+			[
+				"inv",
+				"invCovs"
+			],
+			[
+				"X",
+				"X"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 1581,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.css",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 511.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 511.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Enzo Ferey/Desktop/ggj18",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Enzo Ferey/Desktop/ggj18/src/App.test.js",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/src/index.js",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/timenil.css",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/css/landing-page.css",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/index.html",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/example.html",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/README.md",
+		"/C/Users/ENZOFE~1/AppData/Local/Temp/Rar$DRa9324.28807/timenil-master/example.html",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/img/logo.gif",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/.gitignore",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/gulpfile.js",
+		"/C/Users/Enzo Ferey/Desktop/team-dream/package.json",
+		"/C/Users/Enzo Ferey/Desktop/twitter-dream/index.js",
+		"/C/Users/Enzo Ferey/Desktop/twitter-dream/.gitignore",
+		"/C/Users/Enzo Ferey/Desktop/twitter-dream/package.json",
+		"/C/Users/Enzo Ferey/Desktop/twitter-dream/texts.txt",
+		"/C/Users/Enzo Ferey/Desktop/twitter-dream/names.js",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloud/index.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/pages/View.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/Mockup.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/TableHeaders.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/TableRow.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/GodlikeTable.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/pages/TablePage.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/AppBar.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/pages/Home.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/TableToolbar.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/database.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/TableFilters.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/CleanFilters.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/TableFooter.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/MoreInfoRow.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/DatePicker.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/InputBorder.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/withRoot.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/Snackbar.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/styles/myTheme.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/Input.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/pages/Facturas.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/pages/Login.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/pages/View",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/pages/Proveedores.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/InputIcon.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/Selector.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/Checkbox.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/AlertDialog.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/node_modules/material-ui/transitions/Collapse.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/index.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/node_modules/material-ui-pickers/src/index.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/node_modules/material-ui-pickers/src/DatePicker/DatePicker.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/node_modules/material-ui-pickers/src/DatePicker/DatePickerWrapper.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/package.json",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/Table.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/styles/createContext.js",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/InputIcon",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/src/components/Mockup",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/public/index.html",
+		"/C/Users/Enzo Ferey/Desktop/exce-bills/public/manifest.json",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/package.json",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/public/style.css",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/sample.json",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/index.js",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/index.html",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/.gitignore",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/enzo.json",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/public/index.html",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloudnode/drawing.png",
+		"/C/xampp/htdocs/gameofcloud/draw_canvas.html",
+		"/C/xampp/htdocs/gameofcloud/tweet.php",
+		"/C/xampp/htdocs/gameofcloud/codebird-js/codebird.js",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloud/draw_canvas.html",
+		"/C/xampp/htdocs/gameofcloud/twitter/tweet.php",
+		"/C/xampp/htdocs/gameofcloud/twitter/auth/twitter-finish.php",
+		"/C/xampp/htdocs/gameofcloud/twitter/index.php",
+		"/C/xampp/htdocs/gameofcloud/twitter/auth/share-on-twitter.php",
+		"/C/xampp/htdocs/gameofcloud/twitter/auth/twitter.php",
+		"/C/xampp/htdocs/gameofcloud/twitter/vendor/abraham/twitteroauth/autoload.php",
+		"/C/xampp/htdocs/gameofcloud/twitter/vendor/abraham/twitteroauth/src/Token.php",
+		"/C/xampp/htdocs/gameofcloud/twitter/vendor/abraham/twitteroauth/src/TwitterOAuthException.php",
+		"/C/xampp/htdocs/gameofcloud/auth/share-on-twitter.php",
+		"/C/xampp/htdocs/gameofcloud/auth/twitter.php",
+		"/C/xampp/htdocs/gameofcloud/vendor/abraham/twitteroauth/src/TwitterOAuth.php",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloud/follow_the_mouse.htm",
+		"/C/Users/Enzo Ferey/Desktop/gameofcloud/draw_canvas",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Practica 2/clustering.py",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Practica 1/Ejercicio 5/clasifScKt.py",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/.gitignore",
+		"/C/Users/Enzo Ferey/Desktop/correcionesIngles.txt",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio 5/clasifScKt.py",
+		"/C/Program Files/Adobe/Adobe Photoshop CC 2018/AMT/application.xml",
+		"/C/Users/Enzo Ferey/Desktop/index.html",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio 5/wine.data",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio 5/train-images.idx3-ubyte",
+		"/C/Users/Enzo Ferey/Desktop/linked-web/Assignment3/src/main/java/upm/oeg/wsld/jena/Task01.java",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio 5/clasifScKt_alumnos.py",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio 2/irisScKt.py",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio 5/irisScKt.py",
+		"/C/Users/Enzo Ferey/Desktop/showdown-stats/chrome/dist/preload.js",
+		"/C/Users/Enzo Ferey/Desktop/showdown-stats/chrome/dist/manifest.json",
+		"/C/Users/Enzo Ferey/Desktop/showdown-stats/chrome/chrome-showdown-stats.sublime-project",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio_4/clasifScKt.py",
+		"/C/Users/Enzo Ferey/Desktop/reconocimiento-formas/Ejercicio_4/clasifScKtVersionAlumnos_entrega2.py"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".content",
+			"::before",
+			"z-index",
+			"border",
+			"::after",
+			".left::",
+			".right::",
+			"#",
+			"container",
+			"content-text",
+			"h1",
+			"node-center",
+			"vision",
+			"navbar",
+			"brand",
+			"path",
+			"bodyParser",
+			"base64_decode",
+			"Twitter",
+			"image",
+			"postImage",
+			"getRandomArbitrary",
+			"sampleJSON",
+			"getOpen",
+			"n.",
+			"MoreInfoRow",
+			"TableBody",
+			"TableCell",
+			"TableHead",
+			"smallerIcon",
+			"paddingDense",
+			"selected",
+			"hover",
+			"paddingDense",
+			"tableWrapper",
+			"MoreInfo",
+			"TablePagination",
+			"handleChange",
+			"classes.",
+			"data",
+			"n.",
+			"data",
+			"context",
+			"EnhancedTableTo",
+			"createData",
+			"EnhancedTableToolbar",
+			"Icon",
+			"Typography",
+			"icon",
+			"tableAction",
+			"button",
+			"actions",
+			"title",
+			"header",
+			"InputIcon",
+			"logo",
+			"header",
+			"icon",
+			"tableAction",
+			"button",
+			"actions",
+			"title",
+			"...",
+			"323232",
+			"spacing",
+			"smallerIcon",
+			"EnhancedTableToolbar",
+			"handleClick",
+			"Fragment",
+			"component",
+			"deleteFilters",
+			"Vencido",
+			"Antes de",
+			"Estado pago",
+			"Status",
+			"InputProps",
+			"Fragment",
+			"CardContent",
+			"handleChange",
+			"==",
+			"keycode",
+			"getBulletStatus",
+			"IconButton",
+			"color:",
+			"tabIndex",
+			"highlight",
+			"selected",
+			"emptyRows",
+			"colSpan",
+			"emptyRows",
+			"handleClick",
+			"handleSelectAllClick",
+			"handleKeyDown",
+			"Paper",
+			"numSelec",
+			"selected",
+			"isSelected",
+			"çç",
+			"isSelected",
+			"order",
+			"columnData",
+			"TableSortLabel",
+			"EnhancedTableHead",
+			"createData",
+			"DeleteIcon",
+			"handleChangePage",
+			"rowsPerPage",
+			"TablePagination",
+			"Icon",
+			"FilterListIcon",
+			"Delete",
+			"createData",
+			"#ff4081",
+			"raised",
+			"contrast",
+			"e0e0e0",
+			"contrast",
+			"constrast",
+			"spacing",
+			"background",
+			"accent",
+			"#ff4081"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ggj18.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 651.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Enzo Ferey\\Desktop\\team-dream\\team-dream.sublime-workspace"
+			]
+		],
+		"width": 495.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
