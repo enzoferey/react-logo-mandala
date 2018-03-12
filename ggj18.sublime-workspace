@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"scre",
+				"screenshoting"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"screen",
+				"screenshoting"
+			],
+			[
+				"h",
+				"html2canvas"
+			],
+			[
+				"colo",
+				"colorIndex"
+			],
+			[
+				"rota",
+				"rotations"
+			],
+			[
+				"Ova",
+				"Ovale-logo"
+			],
+			[
+				"col",
+				"colorIndex"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"Ovale",
+				"OvaleSVG"
+			],
+			[
 				"margin",
 				"margin-bottom"
 			],
@@ -152,16 +192,8 @@
 				"InputBorder"
 			],
 			[
-				"col",
-				"collapse"
-			],
-			[
 				"too",
 				"toogleFilters"
-			],
-			[
-				"set",
-				"setState"
 			],
 			[
 				"padd",
@@ -423,7 +455,24 @@
 			"file": "src/App.js",
 			"settings":
 			{
-				"buffer_size": 1581,
+				"buffer_size": 3348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 413,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -432,7 +481,7 @@
 			"file": "src/App.css",
 			"settings":
 			{
-				"buffer_size": 1052,
+				"buffer_size": 1070,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -475,10 +524,18 @@
 	"expanded_folders":
 	[
 		"/C/Users/Enzo Ferey/Desktop/ggj18",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/public",
 		"/C/Users/Enzo Ferey/Desktop/ggj18/src"
 	],
 	"file_history":
 	[
+		"/C/Users/Enzo Ferey/Desktop/ggj18/public/manifest.json",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/README.md",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/package.json",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/public/ovale.svg",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/src/logo.svg",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/src/ovale.svg",
+		"/C/Users/Enzo Ferey/Desktop/ggj18/src/ovale.js",
 		"/C/Users/Enzo Ferey/Desktop/ggj18/src/App.test.js",
 		"/C/Users/Enzo Ferey/Desktop/ggj18/src/index.js",
 		"/C/Users/Enzo Ferey/Desktop/team-dream/timenil.css",
@@ -599,6 +656,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"this.screen",
+			"#deployment",
+			"center",
+			"ovale1",
 			".content",
 			"::before",
 			"z-index",
@@ -748,15 +809,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1581,
+						"buffer_size": 3348,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								523,
-								523
+								913,
+								913
 							]
 						],
 						"settings":
@@ -766,7 +827,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 120.0,
+						"translation.y": 404.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -774,19 +835,79 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/App.css",
+					"file": "package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1052,
+						"buffer_size": 402,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								226,
-								226
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/App.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								305
 							]
 						],
 						"settings":
@@ -799,7 +920,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -807,7 +928,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -864,7 +985,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\Enzo Ferey\\Desktop\\team-dream\\team-dream.sublime-workspace"
+				"C:\\Users\\Enzo Ferey\\Desktop\\twitter-dream\\twitter-dream.sublime-project"
 			]
 		],
 		"width": 495.0

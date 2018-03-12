@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import html2canvas from 'html2canvas';
 
 //const colors = [ "#61dafb", "#0496ff", "#027bce" ];
 let colors = [ "#00D8FF", "#581845", "#900C3F", "#C70039", "#FF5733", "#FFC300" ];
@@ -12,47 +13,69 @@ class App extends Component {
       speeds: [ 1, 2, 4 ],
       ovales: [],
       colorIndex: 0,
+      screenshoting: false,
     };
 
     this.handleClick = this.handleClick.bind(this);
     this.doRotation = this.doRotation.bind(this);
+    this.screenshot = this.screenshot.bind(this);
   }
 
   componentDidMount() {
     setTimeout(() => { colors.splice(0, 1); setInterval(this.doRotation, 100) }, 1500);
   }
 
+  componentDidUpdate() {
+    if(this.state.screenshoting) {
+      this.screenshot();
+      this.setState({ screenshoting: false });
+    }
+  }
+
+  screenshot() {
+    html2canvas(this.yo).then((canvas) => {
+      const d = canvas.toDataURL('image/png');
+      console.log(d);
+      document.body.appendChild(canvas);
+    });
+  }
+
   doRotation() {
-    this.setState((prevState) => (
-      {
-        rotations: [
-          prevState.rotations[0] + prevState.speeds[0],
-          prevState.rotations[1] + prevState.speeds[1],
-          prevState.rotations[2] + prevState.speeds[2],
-        ]
-      }
-    ));
+    if(!this.state.screenshoting) {
+      this.setState((prevState) => (
+        {
+          rotations: [
+            prevState.rotations[0] + prevState.speeds[0],
+            prevState.rotations[1] + prevState.speeds[1],
+            prevState.rotations[2] + prevState.speeds[2],
+          ]
+        }
+      ));
+    }
   }
 
   handleClick() {
-    this.setState((prevState) => (
-      {
-        ovales: [
-          ...prevState.ovales,
-          { color: colors[prevState.colorIndex], rotation: prevState.rotations[0] },
-          { color: colors[prevState.colorIndex], rotation: prevState.rotations[1] },
-          { color: colors[prevState.colorIndex], rotation: prevState.rotations[2] },
-        ],
-        colorIndex: (prevState.colorIndex + 1)%colors.length
-      }
-    ));
+    if(!this.state.screenshoting) {
+      this.setState((prevState) => (
+        {
+          ovales: [
+            ...prevState.ovales,
+            { color: colors[prevState.colorIndex], rotation: prevState.rotations[0] },
+            { color: colors[prevState.colorIndex], rotation: prevState.rotations[1] },
+            { color: colors[prevState.colorIndex], rotation: prevState.rotations[2] },
+          ],
+          colorIndex: (prevState.colorIndex + 1)%colors.length,
+          screenshoting: true,
+        }
+      )); 
+    }
   }
 
   render() {
     const { colorIndex, rotations, ovales } = this.state;
     const currentColor = colors[colorIndex];
     return (
-      <div className="App" onClick={this.handleClick}>
+      <div className="App" ref={(e) => { this.yo = e }} onClick={this.handleClick}>
         <div className="logo-container">
           {ovales.map((ovale, index) => (
             <Ovale key={`ovale-${index}`} fill={ovale.color} rotation={ovale.rotation}/>
